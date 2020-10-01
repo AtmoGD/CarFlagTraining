@@ -1,0 +1,212 @@
+behaviors:
+  EasyCar:
+    trainer_type: ppo
+
+    hyperparameters:
+      # Hyperparameters common to PPO and SAC
+      batch_size: 5000
+      buffer_size: 500000
+      learning_rate: 1.0e-3
+      learning_rate_schedule: linear
+
+      # PPO-specific hyperparameters
+      # Replaces the "PPO-specific hyperparameters" section above
+      beta: 5.0e-3
+      epsilon: 0.15
+      lambd: 0.92
+      num_epoch: 4
+
+    # Configuration of the neural network (common to PPO/SAC)
+    network_settings:
+      vis_encoder_type: simple
+      normalize: true
+      hidden_units: 256
+      num_layers: 3
+      # memory
+
+    # Trainer configurations common to all trainers
+    max_steps: 5.0e7
+    time_horizon: 1024
+    summary_freq: 100000
+    keep_checkpoints: 15
+    checkpoint_interval: 500000
+    threaded: true
+    init_path: null
+
+    reward_signals:
+      # environment reward (default)
+      extrinsic:
+        strength: 1.0
+        gamma: 0.9
+
+    self_play:
+      window: 4
+      play_against_latest_model_ratio: 0.5
+      save_steps: 50000
+      swap_steps: 10000
+      team_change: 250000
+
+  Police:
+    trainer_type: ppo
+
+    hyperparameters:
+      # Hyperparameters common to PPO and SAC
+      batch_size: 2000
+      buffer_size: 400000
+      learning_rate: 1.0e-5
+      learning_rate_schedule: linear
+
+      # PPO-specific hyperparameters
+      # Replaces the "PPO-specific hyperparameters" section above
+      beta: 5.0e-4
+      epsilon: 0.1
+      lambd: 0.935
+      num_epoch: 5
+
+    # Configuration of the neural network (common to PPO/SAC)
+    network_settings:
+      vis_encoder_type: simple
+      normalize: true
+      hidden_units: 256
+      num_layers: 3
+      # memory
+
+    # Trainer configurations common to all trainers
+    max_steps: 5.0e7
+    time_horizon: 512
+    summary_freq: 10000
+    keep_checkpoints: 15
+    checkpoint_interval: 500000
+    threaded: true
+    init_path: null
+
+    reward_signals:
+      # environment reward (default)
+      extrinsic:
+        strength: 1.0
+        gamma: 0.95
+
+      # curiosity module
+      curiosity:
+        strength: 0.04
+        gamma: 0.95
+        encoding_size: 128
+        learning_rate: 3.0e-5
+
+    # self-play
+    #self_play:
+     # window: 4
+      #play_against_latest_model_ratio: 0.5
+      #save_steps: 50000
+      #swap_steps: 10000
+      #team_change: 250000
+
+  Race:
+    trainer_type: ppo
+
+    hyperparameters:
+      # Hyperparameters common to PPO and SAC
+      batch_size: 2000
+      buffer_size: 400000
+      learning_rate: 1.0e-5
+      learning_rate_schedule: linear
+
+      # PPO-specific hyperparameters
+      # Replaces the "PPO-specific hyperparameters" section above
+      beta: 5.0e-4
+      epsilon: 0.1
+      lambd: 0.935
+      num_epoch: 5
+
+    # Configuration of the neural network (common to PPO/SAC)
+    network_settings:
+      vis_encoder_type: simple
+      normalize: true
+      hidden_units: 256
+      num_layers: 3
+      # memory
+
+    # Trainer configurations common to all trainers
+    max_steps: 5.0e7
+    time_horizon: 512
+    summary_freq: 10000
+    keep_checkpoints: 15
+    checkpoint_interval: 500000
+    threaded: true
+    init_path: null
+
+    reward_signals:
+      # environment reward (default)
+      extrinsic:
+        strength: 1.0
+        gamma: 0.95
+
+      # curiosity module
+      curiosity:
+        strength: 0.04
+        gamma: 0.95
+        encoding_size: 128
+        learning_rate: 3.0e-5
+
+    # self-play
+    #self_play:
+     # window: 4
+      #play_against_latest_model_ratio: 0.5
+      #save_steps: 50000
+      #swap_steps: 10000
+      #team_change: 250000
+
+  Garbage:
+    trainer_type: ppo
+
+    hyperparameters:
+      # Hyperparameters common to PPO and SAC
+      batch_size: 2000
+      buffer_size: 400000
+      learning_rate: 1.0e-5
+      learning_rate_schedule: linear
+
+      # PPO-specific hyperparameters
+      # Replaces the "PPO-specific hyperparameters" section above
+      beta: 5.0e-4
+      epsilon: 0.1
+      lambd: 0.935
+      num_epoch: 5
+
+    # Configuration of the neural network (common to PPO/SAC)
+    network_settings:
+      vis_encoder_type: simple
+      normalize: true
+      hidden_units: 256
+      num_layers: 3
+      # memory
+
+    # Trainer configurations common to all trainers
+    max_steps: 5.0e7
+    time_horizon: 512
+    summary_freq: 10000
+    keep_checkpoints: 15
+    checkpoint_interval: 500000
+    threaded: true
+    init_path: null
+
+    reward_signals:
+      # environment reward (default)
+      extrinsic:
+        strength: 1.0
+        gamma: 0.95
+
+      # curiosity module
+      curiosity:
+        strength: 0.04
+        gamma: 0.95
+        encoding_size: 128
+        learning_rate: 3.0e-5
+
+    # self-play
+    #self_play:
+     # window: 4
+      #play_against_latest_model_ratio: 0.5
+      #save_steps: 50000
+      #swap_steps: 10000
+      #team_change: 250000

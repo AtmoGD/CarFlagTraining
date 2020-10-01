@@ -1,0 +1,107 @@
+{
+    "EasyCar": {
+        "checkpoints": [
+            {
+                "steps": 1499216,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-1499216.nn",
+                "reward": -0.5895667372224569,
+                "creation_time": 1599913297.152641
+            },
+            {
+                "steps": 1999813,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-1999813.nn",
+                "reward": -0.5952286068625535,
+                "creation_time": 1599913613.625408
+            },
+            {
+                "steps": 2499332,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-2499332.nn",
+                "reward": -0.4849572668312316,
+                "creation_time": 1599913982.1483817
+            },
+            {
+                "steps": 2999868,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-2999868.nn",
+                "reward": -0.6408906809641243,
+                "creation_time": 1599914305.2146432
+            },
+            {
+                "steps": 3499806,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-3499806.nn",
+                "reward": -0.6891025454518038,
+                "creation_time": 1599914616.0242016
+            },
+            {
+                "steps": 3999564,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-3999564.nn",
+                "reward": -0.7649989549980165,
+                "creation_time": 1599914940.9971604
+            },
+            {
+                "steps": 4499008,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-4499008.nn",
+                "reward": -0.7483137248034056,
+                "creation_time": 1599915304.1845527
+            },
+            {
+                "steps": 4999816,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-4999816.nn",
+                "reward": -1.0239758932746814,
+                "creation_time": 1599915635.528682
+            },
+            {
+                "steps": 5499236,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-5499236.nn",
+                "reward": -0.7382682780749342,
+                "creation_time": 1599915962.6298442
+            },
+            {
+                "steps": 5999796,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-5999796.nn",
+                "reward": -0.8036959830545433,
+                "creation_time": 1599916281.9614954
+            },
+            {
+                "steps": 6499092,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-6499092.nn",
+                "reward": -0.8346066791966544,
+                "creation_time": 1599916658.405011
+            },
+            {
+                "steps": 6999636,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-6999636.nn",
+                "reward": -0.8777320683463282,
+                "creation_time": 1599916975.241168
+            },
+            {
+                "steps": 7499556,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-7499556.nn",
+                "reward": -0.8669686931125711,
+                "creation_time": 1599917300.655231
+            },
+            {
+                "steps": 7999888,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-7999888.nn",
+                "reward": -0.849105926218983,
+                "creation_time": 1599917626.7476568
+            },
+            {
+                "steps": 8364264,
+                "file_path": "results\\Snitch0.0.1\\EasyCar\\EasyCar-8364264.nn",
+                "reward": -0.9345489655097481,
+                "creation_time": 1599917889.2452455
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8364264,
+            "file_path": "results\\Snitch0.0.1\\EasyCar.nn",
+            "reward": -0.9345489655097481,
+            "creation_time": 1599917889.2452455
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.19.0",
+        "tensorflow_version": "2.3.0"
+    }
+}

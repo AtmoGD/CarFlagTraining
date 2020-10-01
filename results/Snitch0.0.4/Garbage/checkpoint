@@ -1,0 +1,2 @@
+model_checkpoint_path: "Garbage-499995.ckpt"
+all_model_checkpoint_paths: "Garbage-499995.ckpt"

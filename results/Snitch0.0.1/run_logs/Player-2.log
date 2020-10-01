@@ -1,0 +1,51 @@
+Mono path[0] = 'C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Managed'
+Mono config path = 'C:/Users/denni/Desktop/Projekte/EasyTraining/build/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.8f1 (60781d942082)
+[Subsystems] Discovering subsystems at path C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.117 seconds
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported.
+UnloadTime: 1.455000 ms
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Unable to save timers to file C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data\ML-Agents\Timers\Playground_timers.json 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 12 worker threads for Enlighten.
+  Thread -> id: 9b58 -> priority: 1 
+  Thread -> id: 9b80 -> priority: 1 
+  Thread -> id: 9ba8 -> priority: 1 
+  Thread -> id: 9bc0 -> priority: 1 
+  Thread -> id: 9b4c -> priority: 1 
+  Thread -> id: 9b38 -> priority: 1 
+  Thread -> id: 9b64 -> priority: 1 
+  Thread -> id: 9b70 -> priority: 1 
+  Thread -> id: 9b88 -> priority: 1 
+  Thread -> id: 9bb0 -> priority: 1 
+  Thread -> id: 9bbc -> priority: 1 
+  Thread -> id: 9b98 -> priority: 1 

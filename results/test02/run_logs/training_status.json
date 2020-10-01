@@ -1,0 +1,23 @@
+{
+    "Police": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\test02\\Police\\Police-0.nn",
+                "reward": null,
+                "creation_time": 1600072008.1360393
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\test02\\Police.nn",
+            "reward": null,
+            "creation_time": 1600072008.1360393
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.19.0",
+        "tensorflow_version": "2.3.0"
+    }
+}

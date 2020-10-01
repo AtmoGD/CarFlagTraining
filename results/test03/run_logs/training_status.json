@@ -1,0 +1,55 @@
+{
+    "Police": {
+        "checkpoints": [
+            {
+                "steps": 11711,
+                "file_path": "results\\test03\\Police\\Police-11711.nn",
+                "reward": -10.291244440608555,
+                "creation_time": 1600073379.479692
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11711,
+            "file_path": "results\\test03\\Police.nn",
+            "reward": -10.291244440608555,
+            "creation_time": 1600073379.479692
+        }
+    },
+    "Race": {
+        "checkpoints": [
+            {
+                "steps": 11711,
+                "file_path": "results\\test03\\Race\\Race-11711.nn",
+                "reward": -8.978466926349533,
+                "creation_time": 1600073382.6798642
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11711,
+            "file_path": "results\\test03\\Race.nn",
+            "reward": -8.978466926349533,
+            "creation_time": 1600073382.6798642
+        }
+    },
+    "Garbage": {
+        "checkpoints": [
+            {
+                "steps": 11711,
+                "file_path": "results\\test03\\Garbage\\Garbage-11711.nn",
+                "reward": -11.188549796740213,
+                "creation_time": 1600073385.769842
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11711,
+            "file_path": "results\\test03\\Garbage.nn",
+            "reward": -11.188549796740213,
+            "creation_time": 1600073385.769842
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.19.0",
+        "tensorflow_version": "2.3.0"
+    }
+}

@@ -1,0 +1,48 @@
+Mono path[0] = 'C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Managed'
+Mono config path = 'C:/Users/denni/Desktop/Projekte/EasyTraining/build/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.8f1 (60781d942082)
+[Subsystems] Discovering subsystems at path C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.731 seconds
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported.
+UnloadTime: 1.521000 ms
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/denni/Desktop/Projekte/EasyTraining/build/Template_Data/Mono/libSystem.dylib
+Setting up 12 worker threads for Enlighten.
+  Thread -> id: acd0 -> priority: 1 
+  Thread -> id: aeb4 -> priority: 1 
+  Thread -> id: e78 -> priority: 1 
+  Thread -> id: a88c -> priority: 1 
+  Thread -> id: b3d8 -> priority: 1 
+  Thread -> id: 8a50 -> priority: 1 
+  Thread -> id: 8a60 -> priority: 1 
+  Thread -> id: a37c -> priority: 1 
+  Thread -> id: 4acc -> priority: 1 
+  Thread -> id: b3ec -> priority: 1 
+  Thread -> id: c3c -> priority: 1 
+  Thread -> id: 9c90 -> priority: 1 

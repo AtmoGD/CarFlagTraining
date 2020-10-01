@@ -1,0 +1,2 @@
+model_checkpoint_path: "Police-124456.ckpt"
+all_model_checkpoint_paths: "Police-124456.ckpt"

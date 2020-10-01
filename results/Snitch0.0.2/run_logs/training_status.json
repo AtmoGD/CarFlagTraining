@@ -1,0 +1,207 @@
+{
+    "EasyCarRace": {
+        "checkpoints": [
+            {
+                "steps": 4499958,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-4499958.nn",
+                "reward": -2.2307759512215855,
+                "creation_time": 1599930534.8579607
+            },
+            {
+                "steps": 4999781,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-4999781.nn",
+                "reward": -2.172400797949529,
+                "creation_time": 1599931405.1614604
+            },
+            {
+                "steps": 5499891,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-5499891.nn",
+                "reward": -2.1811797221334146,
+                "creation_time": 1599932258.0866084
+            },
+            {
+                "steps": 5999892,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-5999892.nn",
+                "reward": -2.2641595051631374,
+                "creation_time": 1599933117.2144608
+            },
+            {
+                "steps": 6499954,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-6499954.nn",
+                "reward": -2.3079092384098057,
+                "creation_time": 1599934139.9484396
+            },
+            {
+                "steps": 6999892,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-6999892.nn",
+                "reward": -2.194081597871042,
+                "creation_time": 1599934982.0856497
+            },
+            {
+                "steps": 7499944,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-7499944.nn",
+                "reward": -2.222656405262099,
+                "creation_time": 1599935848.6496322
+            },
+            {
+                "steps": 7999848,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-7999848.nn",
+                "reward": -2.1789595913236037,
+                "creation_time": 1599936699.7278683
+            },
+            {
+                "steps": 8499540,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-8499540.nn",
+                "reward": -2.273061394856121,
+                "creation_time": 1599937683.8136015
+            },
+            {
+                "steps": 8999919,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-8999919.nn",
+                "reward": -2.1210979530760716,
+                "creation_time": 1599938539.5926924
+            },
+            {
+                "steps": 9498996,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-9498996.nn",
+                "reward": -2.0171185174787585,
+                "creation_time": 1599939394.1720324
+            },
+            {
+                "steps": 9999656,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-9999656.nn",
+                "reward": -2.3251795656424576,
+                "creation_time": 1599940246.1956146
+            },
+            {
+                "steps": 10499986,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-10499986.nn",
+                "reward": -1.6040705204962595,
+                "creation_time": 1599941230.6739893
+            },
+            {
+                "steps": 10999788,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-10999788.nn",
+                "reward": -2.1348852967491023,
+                "creation_time": 1599942075.169852
+            },
+            {
+                "steps": 11272568,
+                "file_path": "results\\Snitch0.0.2\\EasyCarRace\\EasyCarRace-11272568.nn",
+                "reward": -1.74802311998792,
+                "creation_time": 1599942622.9665003
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11272568,
+            "file_path": "results\\Snitch0.0.2\\EasyCarRace.nn",
+            "reward": -1.74802311998792,
+            "creation_time": 1599942622.9665003
+        }
+    },
+    "EasyCar": {
+        "checkpoints": [
+            {
+                "steps": 4499958,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-4499958.nn",
+                "reward": -3.9648503994941713,
+                "creation_time": 1599930534.8489585
+            },
+            {
+                "steps": 4999781,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-4999781.nn",
+                "reward": -3.8660430446451093,
+                "creation_time": 1599931405.3555043
+            },
+            {
+                "steps": 5499891,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-5499891.nn",
+                "reward": -3.9890366080162094,
+                "creation_time": 1599932257.8855634
+            },
+            {
+                "steps": 5999892,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-5999892.nn",
+                "reward": -4.345245134524861,
+                "creation_time": 1599933117.2034583
+            },
+            {
+                "steps": 6499954,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-6499954.nn",
+                "reward": -4.513671560886692,
+                "creation_time": 1599934139.9384375
+            },
+            {
+                "steps": 6999892,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-6999892.nn",
+                "reward": -4.222706057160623,
+                "creation_time": 1599934982.0916507
+            },
+            {
+                "steps": 7499944,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-7499944.nn",
+                "reward": -4.38847513486875,
+                "creation_time": 1599935848.6476312
+            },
+            {
+                "steps": 7999848,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-7999848.nn",
+                "reward": -4.335813412113548,
+                "creation_time": 1599936699.729868
+            },
+            {
+                "steps": 8499540,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-8499540.nn",
+                "reward": -4.3262513703074905,
+                "creation_time": 1599937683.8156028
+            },
+            {
+                "steps": 8999919,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-8999919.nn",
+                "reward": -4.361261167304111,
+                "creation_time": 1599938539.7827425
+            },
+            {
+                "steps": 9498996,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-9498996.nn",
+                "reward": -4.209356444234682,
+                "creation_time": 1599939394.3930812
+            },
+            {
+                "steps": 9999656,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-9999656.nn",
+                "reward": -4.990070275153274,
+                "creation_time": 1599940246.4056637
+            },
+            {
+                "steps": 10499986,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-10499986.nn",
+                "reward": -3.848012298957942,
+                "creation_time": 1599941230.4839463
+            },
+            {
+                "steps": 10999788,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-10999788.nn",
+                "reward": -4.901439763686142,
+                "creation_time": 1599942075.1668513
+            },
+            {
+                "steps": 11272568,
+                "file_path": "results\\Snitch0.0.2\\EasyCar\\EasyCar-11272568.nn",
+                "reward": -4.535657084546983,
+                "creation_time": 1599942625.8120658
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11272568,
+            "file_path": "results\\Snitch0.0.2\\EasyCar.nn",
+            "reward": -4.535657084546983,
+            "creation_time": 1599942625.8120658
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.19.0",
+        "tensorflow_version": "2.3.0"
+    }
+}

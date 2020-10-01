@@ -1,0 +1,107 @@
+{
+    "EasyCar": {
+        "checkpoints": [
+            {
+                "steps": 31499606,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-31499606.nn",
+                "reward": -21.338334891389174,
+                "creation_time": 1600042042.5574915
+            },
+            {
+                "steps": 31999770,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-31999770.nn",
+                "reward": -21.328478327497493,
+                "creation_time": 1600043661.553241
+            },
+            {
+                "steps": 32499100,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-32499100.nn",
+                "reward": -21.31018125223504,
+                "creation_time": 1600045282.3841398
+            },
+            {
+                "steps": 32999454,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-32999454.nn",
+                "reward": -21.321779547965733,
+                "creation_time": 1600046899.7150307
+            },
+            {
+                "steps": 33499354,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-33499354.nn",
+                "reward": -21.08673132706576,
+                "creation_time": 1600048525.648667
+            },
+            {
+                "steps": 33999064,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-33999064.nn",
+                "reward": -21.30243550085566,
+                "creation_time": 1600050150.7194405
+            },
+            {
+                "steps": 34499608,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-34499608.nn",
+                "reward": -21.30329230875707,
+                "creation_time": 1600051780.398703
+            },
+            {
+                "steps": 34999962,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-34999962.nn",
+                "reward": -21.298469550559368,
+                "creation_time": 1600053407.5807452
+            },
+            {
+                "steps": 35499482,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-35499482.nn",
+                "reward": -21.370802381499246,
+                "creation_time": 1600055027.3863814
+            },
+            {
+                "steps": 35999002,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-35999002.nn",
+                "reward": -21.052216044032676,
+                "creation_time": 1600056645.5175097
+            },
+            {
+                "steps": 36499736,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-36499736.nn",
+                "reward": -21.063150117792578,
+                "creation_time": 1600058269.4346204
+            },
+            {
+                "steps": 36999446,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-36999446.nn",
+                "reward": -21.299907446272382,
+                "creation_time": 1600059891.8740482
+            },
+            {
+                "steps": 37499800,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-37499800.nn",
+                "reward": -21.295546180562884,
+                "creation_time": 1600061523.438912
+            },
+            {
+                "steps": 37999320,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-37999320.nn",
+                "reward": -21.293550175291536,
+                "creation_time": 1600063151.5258532
+            },
+            {
+                "steps": 38106808,
+                "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar\\EasyCar-38106808.nn",
+                "reward": -18.494223011391504,
+                "creation_time": 1600063652.1589632
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 38106808,
+            "file_path": "results\\Snitch0.0.3(selfPlay)\\EasyCar.nn",
+            "reward": -18.494223011391504,
+            "creation_time": 1600063652.1589632
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.19.0",
+        "tensorflow_version": "2.3.0"
+    }
+}
